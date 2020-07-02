@@ -1,0 +1,7 @@
+module.exports = {
+    name: 'bingo',
+    description: "Bingo command.",
+    execute(message, args){
+        message.channel.send("Bingo Test!");
+    }
+}

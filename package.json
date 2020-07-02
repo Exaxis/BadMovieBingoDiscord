@@ -1,0 +1,22 @@
+{
+  "name": "badmoviebingodiscord",
+  "version": "1.0.0",
+  "description": "A discord bot used for hosting games of bad movie bingo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exaxis/BadMovieBingoDiscord.git"
+  },
+  "author": "Exaxis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exaxis/BadMovieBingoDiscord/issues"
+  },
+  "homepage": "https://github.com/Exaxis/BadMovieBingoDiscord#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
